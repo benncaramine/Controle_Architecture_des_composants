@@ -1,0 +1,3 @@
+type  Query{
+    getStudentById(id: ID) : StudentDTO
+}
